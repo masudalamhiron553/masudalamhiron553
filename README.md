@@ -1,28 +1,28 @@
-<h1 align="center">Hi 👋, I'm Masud Alam</h1>
+<h1 align="left">Hi 👋, I'm Masud Alam</h1>
 
-- I am a Data Entry Specialist and Google Ads Specialist, currently expanding my skills in Facebook Ads. I’m committed to delivering accurate data management and creating impactful ad campaigns to help businesses grow and achieve their marketing goals. Let's work together to drive results!
--
-<h1 align="center">, - 🔭 What I'm currently working on Upwork</h1>
+I am a Data Entry Specialist and Google Ads Specialist, currently expanding my skills in Facebook Ads. I’m committed to delivering accurate data management and creating impactful ad campaigns to help businesses grow and achieve their marketing goals. Let's work together to drive results!
 
-- [Data Entry Specialist for WooCommerce Products Listing](https://www.upwork.com/jobs/~021831648332896261575)
+<h1 align="Left">, - 🔭 What I'm currently working on Upwork</h1>
 
+[Data Entry Specialist for WooCommerce Products Listing](https://www.upwork.com/jobs/~021831648332896261575)
 
-<h1 align="center">- 🔭 What I'm currently working on Fiverr</h1>
+<h1 align="Left">- 🔭 What I'm currently working on Fiverr</h1>
 
--  [Excel Data Entry](https://www.fiverr.com/masudalamanas?up_rollout=true)
+[Excel Data Entry](https://www.fiverr.com/masudalamanas?up_rollout=true)
 
-<h1 align="center">- 🌱 What I'm currently learning</h1>
+<h1 align="Left">- 🌱 What I'm currently learning</h1>
 
-- I'm currently learning about Google ad & Facebook ad
+I'm currently learning about Google ad & Facebook ad
 
-<h1 align="center">-  💬 Ask me about</h1>
+<h1 align="Left">-  💬 Ask me about</h1>
 
-- **Data Entry, Google Ad, Facebook Ad, Virtual Assistance**
+**Data Entry, Google Ad, Facebook Ad, Virtual Assistance**
 
-- 📫 How to reach me **Feel free to connect with me on LinkedIn.**
-<h1 align="center">- ⚡ Fun fact</h1>
+📫 How to reach me **Feel free to connect with me on LinkedIn.**
+  
+<h1 align="Left">- ⚡ Fun fact</h1>
 
--  **I love Allah**
+**I love Allah**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
