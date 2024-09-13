@@ -16,7 +16,7 @@ I'm currently learning about Google ad & Facebook ad
 
 <h1 align="Left"> 💬 Ask me about</h1>
 
-Data Entry, Google Ad, Facebook Ad, Virtual Assistance
+Data Entry, Google Ad, Facebook Ad
 
 <h1 align="Left"> 📫 How to reach me </h1>
 
