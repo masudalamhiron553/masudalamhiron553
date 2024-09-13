@@ -2,25 +2,27 @@
 
 I am a Data Entry Specialist and Google Ads Specialist, currently expanding my skills in Facebook Ads. I’m committed to delivering accurate data management and creating impactful ad campaigns to help businesses grow and achieve their marketing goals. Let's work together to drive results!
 
-<h1 align="Left">, - 🔭 What I'm currently working on Upwork</h1>
+<h1 align="Left">, 🔭 What I'm currently working on </h1>
+
+Now I am working as a Data Entry specialist on Upwork and Fiverr
 
 [Data Entry Specialist for WooCommerce Products Listing](https://www.upwork.com/jobs/~021831648332896261575)
 
-<h1 align="Left">- 🔭 What I'm currently working on Fiverr</h1>
-
 [Excel Data Entry](https://www.fiverr.com/masudalamanas?up_rollout=true)
 
-<h1 align="Left">- 🌱 What I'm currently learning</h1>
+<h1 align="Left">, 🌱 What I'm currently learning</h1>
 
 I'm currently learning about Google ad & Facebook ad
 
-<h1 align="Left">-  💬 Ask me about</h1>
+<h1 align="Left">, 💬 Ask me about</h1>
 
-**Data Entry, Google Ad, Facebook Ad, Virtual Assistance**
+Data Entry, Google Ad, Facebook Ad, Virtual Assistance
 
-📫 How to reach me **Feel free to connect with me on LinkedIn.**
+<h1 align="Left"> 📫 How to reach me </h1>
+
+Feel free to connect with me on LinkedIn.
   
-<h1 align="Left">- ⚡ Fun fact</h1>
+<h1 align="Left"> ⚡ Fun fact</h1>
 
 **I love Allah**
 
